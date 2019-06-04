@@ -1,5 +1,11 @@
 # TSUE-V-2.2_FMEdition
 TSUE V 2.2_FMEdition
+
+I have no more time to do any more coding to this core
+
+There is a new theme also a new in staller
+
+
 Plateforms
 Plateform 5.6.32
 Plateform 5.6.40
